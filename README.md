@@ -1,6 +1,6 @@
 <h2 align="center">Olá! Meu nome é Francine Almeida, bem vindos ao meu GitHub</h2>
 
-<h5 align="center">Formada em Análise e Desenvolvimento de Sistemas (2021), sou apaixonada por tecnologia e inovação. Pretendo atuar como Desenvolvedora Front-End ou em áreas correlatas da Tecnologia da Informação. Tenho facilidade de aprendizado, trabalho bem em equipe e sou movida por desafios. Em transição de carreira, trago uma bagagem rica de atendimento ao público e suporte administrativo, além de experiência prática em projetos de desenvolvimento.</h5>
+<h5 align="center">Formada em Análise e Desenvolvimento de Sistemas (2021), sou apaixonada por tecnologia e inovação. Em transição de carreira, trago uma bagagem rica de atendimento ao público e suporte administrativo, além de experiência prática em projetos de desenvolvimento. Tenho facilidade de aprendizado, trabalho bem em equipe e sou movida por desafios. No momento estou aprimorando meus conhecimentos com o DevClub. O objetivo é mergulhar mais fundo em programação.</h5>
 
 
 
